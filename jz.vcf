@@ -1,0 +1,29 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Z;J;;;
+FN:J Z
+ORG:
+ADR;TYPE=WORK:
+TITLE:problem solver
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:umren@umren.tv
+URL;TYPE=Digital Business Card:https://umren.tv/card
+URL:https://umren.tv
+URL;TYPE=Website:https://umren.tv
+URL;TYPE=Messenger:https://m.me/umreneu
+URL;TYPE=Discord:umrentv
+URL;TYPE=Facebook:https://facebook.com/umreneu
+URL;TYPE=Twitter:https://twitter.com/umrentv
+URL;TYPE=LinkedIn:https://linkedin.com/umrentv
+URL;TYPE=Instagram:https://instagram.com/umrentv
+URL;TYPE=PayPal:https://paypal.me/umren
+URL;TYPE=Twitch:https://twitch.tv/umren
+URL;TYPE=YouTube:https://youtube.com/umrentv
+URL;TYPE=GitHub:https://github.com/umrentv
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100671218
+END:VCARD
